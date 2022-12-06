@@ -1,4 +1,4 @@
-# [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a) (5 kyu)
+# [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a)
 
 ## Description:
 

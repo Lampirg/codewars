@@ -1,4 +1,4 @@
-# [Throw without throwing](https://www.codewars.com/kata/5943db60800cebe12000003d) (6 kyu)
+# [Throw without throwing](https://www.codewars.com/kata/5943db60800cebe12000003d)
 
 ## Description:
 
